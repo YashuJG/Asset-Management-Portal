@@ -330,17 +330,8 @@ Planned improvements for upcoming versions:
 
 - [README.md](README.md) - This file
 - [INSTALLATION.md](INSTALLATION.md) - Detailed setup guide
-- [QUICKSTART.md](QUICKSTART.md) - 30-minute rapid deployment
 - [SCRIPTS.md](SCRIPTS.md) - All code and scripts
-- [TESTING.md](TESTING.md) - Test procedures
 - [USER_GUIDE.md](USER_GUIDE.md) - End-user documentation
-- [CONTRIBUTING.md](CONTRIBUTING.md) - Contribution guidelines
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
@@ -354,10 +345,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Creator**: [Your Name]  
-**Email**: [your.email@example.com]  
-**GitHub**: [github.com/yourusername](https://github.com/yourusername)  
-**LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**Project Creator**: Yasaswini Sri Tamanampudi
+**Email**: yasaswinisrit@gmail.com 
+**GitHub**: [github.com/yourusername](https://github.com/YashuJG) 
+**LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yasaswini-sri-tamanampudi/)
 
 ---
 
