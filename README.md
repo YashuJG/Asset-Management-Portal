@@ -10,17 +10,21 @@ A comprehensive ServiceNow-based solution for streamlined tracking, management, 
 ---
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Technical Architecture](#technical-architecture)
-- [Installation Guide](#installation-guide)
-- [Testing](#testing)
-- [Business Impact](#business-impact)
-- [Conclusion](#conclusion)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
+
+- [Overview](#-overview)
+- [Problem Statement](#-problem-statement)
+- [Features](#-features)
+- [Screenshots](#-screenshots)
+- [Technical Architecture](#-technical-architecture)
+- [Installation Guide](#-installation-guide)
+- [Testing](#-testing)
+- [Business Impact](#-business-impact)
+- [Conclusion](#-conclusion)
+- [Future Enhancements](#-future-enhancements)
+- [Documentation](#-documentation)
+- [License](#-license)
+- [Connect with Me](#-connect-with-me)
+
 
 ---
 
