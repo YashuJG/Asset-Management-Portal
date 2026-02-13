@@ -82,7 +82,7 @@ Organizations face challenges in managing assets effectively, including:
 ### Asset Form with UI Actions
 The asset form displays all custom fields and features three one-click UI action buttons for quick status updates.
 
-![Asset Form UI Actions](screenshots/asset-form-ui-actions.png)
+![Asset Form UI Actions](Screenshots/asset-form-ui-actions.png)
 
 *Asset form showing Mark As Lost, Mark As Damaged, and Mark As Repaired buttons*
 
@@ -91,7 +91,7 @@ The asset form displays all custom fields and features three one-click UI action
 ### Asset List View
 Complete inventory view showing all assets with their current status, assignment, and warranty information.
 
-![Asset List View](screenshots/asset-list-view.png)
+![Asset List View](Screenshots/asset-list-view.png)
 
 *Asset Inventory list view with 8 assets showing various statuses*
 
@@ -100,7 +100,7 @@ Complete inventory view showing all assets with their current status, assignment
 ### UI Actions in Action - Damaged Status
 Demonstration of the "Mark As Damaged" functionality changing asset status.
 
-![Asset Damaged Status](screenshots/asset-damaged-status.png)
+![Asset Damaged Status](Screenshots/asset-damaged-status.png)
 
 *Printer asset marked as "Damaged" - shows conditional button display*
 
@@ -109,7 +109,7 @@ Demonstration of the "Mark As Damaged" functionality changing asset status.
 ### UI Actions in Action - Repaired Status
 Demonstration of the "Mark As Repaired" functionality restoring asset to "Available".
 
-![Asset Repaired Status](screenshots/asset-repaired-status.png)
+![Asset Repaired Status](Screenshots/asset-repaired-status.png)
 
 *Asset status changed to "Available" after repair - Mark As Repaired button no longer visible*
 
@@ -118,7 +118,7 @@ Demonstration of the "Mark As Repaired" functionality restoring asset to "Availa
 ### Scheduled Job Script
 Background script for warranty expiry alerts that runs daily at 12:00 PM.
 
-![Scheduled Job Script](screenshots/scheduled-job-script.png)
+![Scheduled Job Script](Screenshots/scheduled-job-script.png)
 
 *Scheduled job code for monitoring warranties expiring within 30 days*
 
@@ -127,7 +127,7 @@ Background script for warranty expiry alerts that runs daily at 12:00 PM.
 ### Scheduled Job Execution
 Successful execution showing email notifications sent for multiple assets.
 
-![Scheduled Job Execution](screenshots/scheduled-job-execution.png)
+![Scheduled Job Execution](Screenshots/scheduled-job-execution.png)
 
 *Script output showing emails sent for Laptop, Mobile, and Printer assets*
 
@@ -136,7 +136,7 @@ Successful execution showing email notifications sent for multiple assets.
 ### Reports List
 Custom report "Available vs assigned assets" in the ServiceNow Reports module.
 
-![Reports List](screenshots/reports-list.png)
+![Reports List](Screenshots/reports-list.png)
 
 *Asset Management report available in the Reports section*
 
@@ -145,7 +145,7 @@ Custom report "Available vs assigned assets" in the ServiceNow Reports module.
 ### Pie Chart Report
 Visual representation of asset status distribution across the organization.
 
-![Report Pie Chart](screenshots/report-pie-chart.png)
+![Report Pie Chart](Screenshots/report-pie-chart.png)
 
 *Pie chart showing: Repaired (50%), Available (25%), Damaged (12.5%), Lost (12.5%)*
 
@@ -154,7 +154,7 @@ Visual representation of asset status distribution across the organization.
 ### Interactive Report
 Interactive pie chart with hover details and drill-down capabilities.
 
-![Report Interactive](screenshots/report-interactive.png)
+![Report Interactive](Screenshots/report-interactive.png)
 
 *Hovering over segments displays exact counts and percentages*
 
