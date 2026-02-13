@@ -20,7 +20,6 @@ A comprehensive ServiceNow-based solution for streamlined tracking, management, 
 - [Business Impact](#business-impact)
 - [Conclusion](#conclusion)
 - [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
