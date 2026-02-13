@@ -82,7 +82,7 @@ Organizations face challenges in managing assets effectively, including:
 ### Asset Form with UI Actions
 The asset form displays all custom fields and features three one-click UI action buttons for quick status updates.
 
-![Asset Form UI Actions](Screenshots/asset-form-ui-actions.png)
+![Asset Form UI Actions](Screenshots/asset-form-new.png)
 
 *Asset form showing Mark As Lost, Mark As Damaged, and Mark As Repaired buttons*
 
@@ -100,7 +100,7 @@ Complete inventory view showing all assets with their current status, assignment
 ### UI Actions in Action - Damaged Status
 Demonstration of the "Mark As Damaged" functionality changing asset status.
 
-![Asset Damaged Status](Screenshots/asset-damaged-status.png)
+![Asset Damaged Status](Screenshots/asset-form-damaged.png)
 
 *Printer asset marked as "Damaged" - shows conditional button display*
 
@@ -109,7 +109,7 @@ Demonstration of the "Mark As Damaged" functionality changing asset status.
 ### UI Actions in Action - Repaired Status
 Demonstration of the "Mark As Repaired" functionality restoring asset to "Available".
 
-![Asset Repaired Status](Screenshots/asset-repaired-status.png)
+![Asset Repaired Status](Screenshots/asset-form-repaired.png)
 
 *Asset status changed to "Available" after repair - Mark As Repaired button no longer visible*
 
@@ -118,7 +118,7 @@ Demonstration of the "Mark As Repaired" functionality restoring asset to "Availa
 ### Scheduled Job Script
 Background script for warranty expiry alerts that runs daily at 12:00 PM.
 
-![Scheduled Job Script](Screenshots/scheduled-job-script.png)
+![Scheduled Job Script](Screenshots/scheduled-job-code.png)
 
 *Scheduled job code for monitoring warranties expiring within 30 days*
 
