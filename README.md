@@ -343,23 +343,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📬 Let's Connect
+## 📞 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/YashuJG">
-    <img src="https://img.shields.io/badge/GitHub-YashuJG-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yasaswini-sri-tamanampudi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Yasaswini%20Sri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yasaswinisrit@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-YashuJG-black?style=for-the-badge&logo=github)](https://github.com/YashuJG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasaswini%20Sri%20T-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yasaswini-sri-tamanampudi/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:yasaswinisrit@gmail.com)
+
 </p>
 
-<p align="center">
-  ✨ Open to opportunities | 💼 ServiceNow Developer | 🚀 Always Learning
-</p>
 
 ---
 
