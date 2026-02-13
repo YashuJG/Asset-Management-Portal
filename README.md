@@ -347,8 +347,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Project Creator**: Yasaswini Sri Tamanampudi
 **Email**: yasaswinisrit@gmail.com 
-**GitHub**: [github.com/yourusername](https://github.com/YashuJG) 
-**LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yasaswini-sri-tamanampudi/)
+**GitHub**: [github.com/YashuJG](https://github.com/YashuJG) 
+**LinkedIn**: [linkedin.com/in/yasaswini-sri-tamanampudi](https://www.linkedin.com/in/yasaswini-sri-tamanampudi/)
 
 ---
 
