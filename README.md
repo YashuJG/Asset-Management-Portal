@@ -356,15 +356,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🌟 Acknowledgments
-
-- ServiceNow Community for documentation and best practices
-- IT Support team for requirements and feedback
-- Beta testers for valuable input
-- All contributors to this project
-
----
-
 **Built with ❤️ using ServiceNow Platform**
 
 *Last Updated: February 12, 2026*
