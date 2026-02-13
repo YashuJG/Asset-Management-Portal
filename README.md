@@ -343,12 +343,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Contact
+## 📞 Connect with Me
 
-**Project Creator**: Yasaswini Sri Tamanampudi
-**Email**: yasaswinisrit@gmail.com 
-**GitHub**: [github.com/YashuJG](https://github.com/YashuJG) 
-**LinkedIn**: [linkedin.com/in/yasaswini-sri-tamanampudi](https://www.linkedin.com/in/yasaswini-sri-tamanampudi/)
+<p align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-YashuJG-black?style=for-the-badge&logo=github)](https://github.com/YashuJG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasaswini%20Sri%20T-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yasaswini-sri-tamanampudi/)
+
+</p>
+
+<p align="center">
+📧 yasaswinisrit@gmail.com
+</p>
+
 
 ---
 
